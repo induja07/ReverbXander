@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 40px;
+    background: #111;
+    color: white;
+    text-align: center;
+}
+
+input[type="range"] {
+    width: 80%;
+}
+button {
+    padding: 10px 20px;
+    background: #00ffc3;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
